@@ -11,7 +11,7 @@ Je suis Adrien Agard, un passionné de la technologie et du développement web, 
 - 🧰 Bases de TypeScript pour des projets plus robustes.
 
 ## Langages et outils :
-[![My Skills](https://skills.thijs.gg/icons?i=javascript,react,nextjs,nodejs,ts,mongodb,css,html,figma&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=javascript,react,nextjs,express,nodejs,ts,mongodb,css,html,figma&theme=light)](https://skills.thijs.gg)
 
 ## Projets marquants :
 - 🏡 **MVP Immolib'** : J'ai participé à la création d'une application de réservation de rendez-vous pour les agents immobiliers et leurs clients. Cette expérience a renforcé ma capacité à travailler en équipe et à développer des solutions pratiques pour des professionnels.
