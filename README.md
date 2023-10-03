@@ -21,7 +21,8 @@ Je suis Adrien Agard, un passionné de la technologie et du développement web, 
 
 ## Formation et Éducation :
 - 🎓 Master 2 en Droit des Affaires et Gestion d'Entreprise.
-- 📚 Titulaire d'une certification RNCP niveau 6 en Conception Développement d'Applications Web et Mobile.
+- 📚 Certification RNCP 6 : Conception et Développement d'Applications Web et Mobile passée au sein de La Capsule 
+
 
 
 ## Contactez-moi :
