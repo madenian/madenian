@@ -10,6 +10,9 @@ Je suis Adrien Agard, un passionné de la technologie et du développement web, 
 - 🚀 Hébergement sur Vercel pour des performances et une disponibilité optimales.
 - 🧰 Bases de TypeScript pour des projets plus robustes.
 
+## Langages et outils :
+[![My Skills](https://skills.thijs.gg/icons?i=javascript,react,nextjs,nodejs,ts,mongodb,css,html,figma&theme=light)](https://skills.thijs.gg)
+
 ## Projets marquants :
 - 🏡 **MVP Immolib'** : J'ai participé à la création d'une application de réservation de rendez-vous pour les agents immobiliers et leurs clients. Cette expérience a renforcé ma capacité à travailler en équipe et à développer des solutions pratiques pour des professionnels.
 - 🛒 **Site E-commerce personnel** : J'ai créé un site e-commerce pour mettre en pratique mes compétences et explorer le développement web côté front-end et back-end.
@@ -20,10 +23,12 @@ Je suis Adrien Agard, un passionné de la technologie et du développement web, 
 - 🎓 Master 2 en Droit des Affaires et Gestion d'Entreprise.
 - 📚 Titulaire d'une certification RNCP niveau 6 en Conception Développement d'Applications Web et Mobile.
 
-[![My Skills](https://skills.thijs.gg/icons?i=javascript,nextjs,nodejs,ts,mongodb,css,html,figma&theme=light)](https://skills.thijs.gg)
 
 ## Contactez-moi :
 📫 N'hésitez pas à me contacter sur [LinkedIn](https://www.linkedin.com/in/adrien-agard-628032117/) pour discuter de nouvelles opportunités, collaborer sur des projets ou simplement échanger  !
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madenian&show_icons=true&locale=en&layout=compact" alt="madenian" /></p>
+
 
 
 <!-- Fin du README -->
