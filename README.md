@@ -2,7 +2,7 @@
 
 # Bienvenue sur mon profil GitHub 👋
 
-Je suis [Votre Nom], un passionné de la technologie et du développement web, avec une solide expérience en JavaScript (front-end et back-end). Après une reconversion professionnelle réussie, je suis prêt à contribuer à des projets innovants et à relever de nouveaux défis passionnants dans le monde du développement web.
+Je suis Adrien Ahard, un passionné de la technologie et du développement web, avec plusieurs projets à mon actifs en JavaScript (front-end et back-end). Après une reconversion professionnelle réussie, je suis prêt à contribuer à des projets innovants et à relever de nouveaux défis passionnants dans le monde du développement web.
 
 ## Quelques points forts :
 - 💻 Maîtrise de React.js, Node.js, Next.js, React Native, HTML et CSS.
