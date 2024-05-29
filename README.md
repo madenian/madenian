@@ -13,9 +13,7 @@ Je suis Adrien Agard, un passionné de la technologie et du développement web, 
 
 ## Langages et outils :
 ![image](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-<a href='https://www.linkedin.com/in/adrien-agard-628032117' target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrien-agard-628032117)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ## Projets marquants :
 - 🏡 **MVP Immolib'** : J'ai participé à la création d'une application de réservation de rendez-vous pour les agents immobiliers et leurs clients. Cette expérience a renforcé ma capacité à travailler en équipe et à développer des solutions pratiques pour des professionnels.
