@@ -18,7 +18,7 @@ Je suis Adrien Agard, un passionné de la technologie et du développement web, 
 - 🛒 **Site E-commerce personnel** : J'ai créé un site e-commerce pour mettre en pratique mes compétences et explorer le développement web côté front-end et back-end.
 - 🌿 **Site pour une naturopathe** : J'ai collaboré avec un praticien de la naturopathie pour créer un site web qui présente ses services de manière attrayante.
 - 🎮 **Site de référence pour les streamers Twitch** : J'ai développé une plateforme qui répertorie les plannings des plus grands streamers français sur Twitch, ainsi que les top live du moment et les calendriers des prochains matchs d'e-sport.
-- **Site pour un Vigneron** : Je travaille actuellement à la réalisation d'un site pour un vigneron indépendant travaillant dans une démarche responsable (AB, biodynamie et vin naturels). 
+- 🍷 **Site pour un Vigneron** : Je travaille actuellement à la réalisation d'un site pour un vigneron indépendant travaillant dans une démarche responsable (AB, biodynamie et vin naturels). 
 
 ## Formation et Éducation :
 - 🎓 Master 2 en Droit des Affaires et Gestion d'Entreprise.
