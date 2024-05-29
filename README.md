@@ -8,9 +8,12 @@ Je suis Adrien Agard, un passionné de la technologie et du développement web, 
 - 💻 Maîtrise de React.js, Node.js, Next.js, Express, React Native, HTML et CSS.
 - 📦 Utilisation de MongoDB pour la gestion des bases de données.
 - 🚀 Hébergement sur Vercel pour des performances et une disponibilité optimales.
+- 🌐 Utilisation de divers CMS : Cosmic.js, Storyblok.
 - 🧰 Bases de TypeScript pour des projets plus robustes.
 
 ## Langages et outils :
+![image](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<img src="[{BadgeURLHere}](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" />
 ![image](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ## Projets marquants :
 - 🏡 **MVP Immolib'** : J'ai participé à la création d'une application de réservation de rendez-vous pour les agents immobiliers et leurs clients. Cette expérience a renforcé ma capacité à travailler en équipe et à développer des solutions pratiques pour des professionnels.
